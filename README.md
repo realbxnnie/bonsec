@@ -1,10 +1,10 @@
 # bonsec
 A Powerful Lua Obfuscator.
 
-**Usage**
+**Usage**\
 Add BonSec:
 ```lua
-local bonsec = loadstring(game:HttpGet("https://raw.githubusercontent.com/
+local bonsec = loadstring(game:HttpGet("https://raw.githubusercontent.com/realbxnnie/bonsec/refs/heads/main/main.lua"), true)()
 ```
 Obfuscate code: 
 ```lua
